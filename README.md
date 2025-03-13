@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Python Developer<br>🎓 Software Engineering Student<br>🦾 Future AI Specialist</p>
+<p align="left">✨ Full-Stack Developer<br>🎓 Software Engineering Student<br>🦾 Future AI Specialist</p>
 
 ###
 
